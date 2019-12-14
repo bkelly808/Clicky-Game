@@ -1,1 +1,4 @@
 # Clicky-Game
+
+## Overview
+This is a memory game created with React.
